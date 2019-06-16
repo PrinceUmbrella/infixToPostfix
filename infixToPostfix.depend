@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1555540717 source:c:\users\eleou\desktop\class iv\data structures\01_assignments\infixtopostfix\infixtopostfix\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Stack.h"
+
+1554074594 c:\users\eleou\desktop\class iv\data structures\01_assignments\infixtopostfix\infixtopostfix\include\stack.h
+	<iostream>
+
+1554073471 source:c:\users\eleou\desktop\class iv\data structures\01_assignments\infixtopostfix\infixtopostfix\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
